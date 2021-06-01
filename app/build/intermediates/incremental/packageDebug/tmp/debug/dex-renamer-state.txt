@@ -1,0 +1,7 @@
+#Tue Jun 01 13:14:26 CEST 2021
+base.1=/home/alles49klar/Schreibtisch/h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment/m3-shapes/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/home/alles49klar/Schreibtisch/h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment/m3-shapes/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
